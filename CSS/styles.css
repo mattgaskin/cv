@@ -1,0 +1,34 @@
+body {
+  background-color: #edf8fb;
+}
+hr {
+  background-color: #edf8fb;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 50px;
+}
+h1{
+  font-family: "Helvetica Neue", "Arial",  sans-serif;
+  color: #006d2c;
+}
+h3{
+  font-family: "Helvetica Neue", "Arial",  sans-serif;
+  color: #2ca25f;
+}
+p{
+  font-family: "Helvetica Neue", "Arial",  sans-serif;
+}
+ul{
+    font-family: "Helvetica Neue", "Arial",  sans-serif;
+}
+ol{
+    font-family: "Helvetica Neue", "Arial",  sans-serif;
+}
+table{
+    font-family: "Helvetica Neue", "Arial",  sans-serif;
+}
+label{
+    font-family: "Helvetica Neue", "Arial",  sans-serif;
+}
